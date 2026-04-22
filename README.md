@@ -4,7 +4,7 @@ Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wa
 
 ## Fun facts about me
 1.when I was around 8 yrs old I saw Wreck It Ralph and decided I will break into tech in future🦕.        
-2.My fav animal is otter🦦
+2.My fav animals are capybara and others🦦
 
 
 
@@ -17,3 +17,4 @@ core
 
 ML/DL
 
+https://skillicons.dev/icons?i=numpy,pytorch,pandas,
