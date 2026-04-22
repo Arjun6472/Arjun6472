@@ -11,10 +11,5 @@ Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wa
 
 <p align="Centre">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" />
-  </a>
-  <img src="https://cdn.simpleicons.org/streamlit" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/pandas" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/numpy" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" /></a><img src="https://cdn.simpleicons.org/streamlit" width="48" height="48"/><img src="https://cdn.simpleicons.org/pandas" width="48" height="48"/><img src="https://cdn.simpleicons.org/numpy" width="48" height="48"/><img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
 </p>
