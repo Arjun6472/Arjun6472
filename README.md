@@ -4,6 +4,7 @@ Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wa
 
 ## Fun facts about me
 1.when I was around 8 yrs old I saw Wreck It Ralph and decided I will break into tech in future🦕
+
 2.In free time I love exploring my nerdy hobbies and interests🦦
 
 
