@@ -20,3 +20,13 @@ ML/DL
 <p align="Centre">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" /></a>
+
+Other stuffs 
+
+<p align="Centre">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,linux" /></a>
+
+
+
+
