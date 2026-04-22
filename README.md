@@ -16,5 +16,3 @@ core
     <img src="https://skillicons.dev/icons?i=python" /></a>
 
 ML/DL
-
-https://skillicons.dev/icons?i=numpy,pytorch,pandas,
