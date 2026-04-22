@@ -19,4 +19,4 @@ ML/DL
 
 <p align="Centre">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch" /></a>
+    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" /></a>
