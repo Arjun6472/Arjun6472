@@ -7,7 +7,14 @@ Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wa
 2.In free time I love exploring my nerdy hobbies and interests🦦
 
 
-tech stacks
+🛠️ My Tech Stack
 
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="50"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,linux" />
+  </a>
+  <img src="https://cdn.simpleicons.org/streamlit" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/pandas" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/numpy" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
+</p>
