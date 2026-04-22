@@ -8,3 +8,4 @@ Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wa
 
 
 tech stacks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
