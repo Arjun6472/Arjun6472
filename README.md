@@ -16,9 +16,8 @@ core
     <img src="https://skillicons.dev/icons?i=python" /></a>
 
 ML/DL
-    [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=,numpy,pandas,jupyter,pytorch,scikitlearn,](https://github.com/thuongtruong109/icoziv)
 
-
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=numpy,pandas,jupyter,pytorch,scikitlearn,fastapi,streamlit,)](https://github.com/thuongtruong109/icoziv)
 Other stuffs 
 
 <p align="Centre">
