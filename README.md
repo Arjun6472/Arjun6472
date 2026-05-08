@@ -3,7 +3,7 @@
 Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wants to build a career in this field,My expertise is NLP and reinforcement learning.
 
 ## Fun facts about me
-1.when I was around 8 yrs old I saw Wreck It Ralph and decided I will break into tech in future🦕.        
+1.when I was kid I wanted to be a dinosaur connoisseur🦕.        
 2.My fav animals are capybara and otters🦦.                      
 3.I genuinely love using open source softwares as I love customising stuffs🧙.
 
