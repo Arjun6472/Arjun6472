@@ -3,9 +3,10 @@
 Heyyy I am Arjun from pune,india. I love learning machine learning stuffs and wants to build a career in this field,My expertise is NLP and reinforcement learning.
 
 ## Fun facts about me
-1.when I was kid I wanted to be a dinosaur connoisseur🦕.        
-2.My fav animals are capybara and otters🦦.                      
-3.I genuinely love using open source softwares as I love customising stuffs🧙.
+1.when I was kid I wanted to be a dinosaur tamer🦕.        
+2.My fav animals are capybaras and otters🦦.                      
+3.I get zoned out easily specially in boring talks or situations🧙.
+
 
 
 
