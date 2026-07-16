@@ -1,7 +1,7 @@
 ## Hi there 
 I am Arjun from India, I love spending time on my computer like playing games,internet surfing,researching on niche stuffs etc. I am pretty much invested in DeepTech like AI,Qauntum Computing,Machine Learning.Therefore I am quite attracted toward Machine Learning. 
 
-I am a MLOps Engineer with expertise in Natural Language Processing And Reinforcement Learning. I have habit of using niche algorithm. I love using the tools that don't lower my device's speed, You will find me building project around my intrests, But the only thing i hate about modern day AI is genrative AI, I am literally rock solid standing against it.
+I am a MLOps Engineer with expertise in Natural Language Processing And Reinforcement Learning. I have a habit of using niche algorithm. I love using the tools that don't lower my device's speed, You will find me building project around my intrests, But the only thing i hate about modern day AI is genrative AI, I am literally rock solid standing against it.
 
 
 ## Fun facts about me
