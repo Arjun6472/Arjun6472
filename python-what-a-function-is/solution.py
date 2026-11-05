@@ -20,7 +20,9 @@ def greet_formal(name: str, title: str) -> str:
 
 
 def apply_twice(func, value):
-    return func(func(value))
+    first_result = func(value)
+    final_result = func(first_result)
+    return final_result
     """
     Call `func` on `value`, then call `func` again on the result
     of that first call. Return the final result.
