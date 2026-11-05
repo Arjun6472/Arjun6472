@@ -33,7 +33,6 @@ def build_sales_report(raw: str) -> str:
     lines_out.append(f"Rows: {rows} | UTF-8 bytes in items: {bytes_total}")
 
     return "\n".join(lines_out)
-  
 
           
             
